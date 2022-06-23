@@ -22,3 +22,5 @@ print (cubes)
 print ("Hiszpańska inkwizycja")
 
 print ("lubie cię")
+
+print ("karate")
