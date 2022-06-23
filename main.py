@@ -18,3 +18,5 @@ for i in range (1,101):
 print (divis)
 cubes = [divi ** 3 for divi in divis]
 print (cubes)
+
+print ("Hiszpańska inkwizycja")
