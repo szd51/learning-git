@@ -20,3 +20,5 @@ cubes = [divi ** 3 for divi in divis]
 print (cubes)
 
 print ("Hiszpańska inkwizycja")
+
+print ("lubie cię")
